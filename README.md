@@ -1,22 +1,20 @@
-# Power-Bi-Project-
-Data visualasation of New York City Airbnb analysis and customer behavior insights.
-DATA VISUALISATION
+#New York City Airbnb Analysis
+##About
+This project provides an in-depth analysis of New York City Airbnb listings, focusing on customer behavior and market trends. Utilizing a dataset of 48,895 entries, the project includes host information, accommodation types, pricing, and reviews to derive actionable insights.
 
-Dataset of New York City Airbnb listings with 48,895 entries, detailing host information, accommodation types, pricing, reviews for market analysis and customer behavior insights.
-Open the Power BI Desktop application.
-Load the Power BI file (power bi project.pbix) from the cloned repository.
-Data Sources
-This project uses the following data sources:
-"AB_NYC_2019"
-Visualizations
-The project includes various visualizations such as:
+##Features
+Data Visualizations: Interactive dashboards and reports created in Power BI.
+Visualizations Included:
 Clustered charts
-Matrix table
+Matrix tables
 Donut charts
-Any other visualizations
-Installation
-No special installation is required. Ensure you have Power BI Desktop installed on your machine.
-Usage
-Open the .pbix file in Power BI Desktop.
-Refresh the data to get the latest updates.
-Explore the dashboards and reports.
+Additional visualizations for comprehensive insights
+##Data Source
+Dataset: "AB_NYC_2019"
+##Installation
+No special installation is required. Simply ensure you have Power BI Desktop installed on your machine.
+
+##Usage
+Open the power bi project.pbix file in Power BI Desktop.
+Refresh the data to obtain the latest updates.
+Explore the dashboards and reports for insights.
